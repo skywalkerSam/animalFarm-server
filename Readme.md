@@ -1,4 +1,4 @@
-# [Node Express Server with TypeScript Intro](https://www.youtube.com/watch?v=H91aqUHn8sE)
+# [Express Server with TypeScript](https://www.youtube.com/watch?v=H91aqUHn8sE)
 
 [Express server Intro - Fireship.io](https://fireship.io/courses/react/1-express-server/)
 
