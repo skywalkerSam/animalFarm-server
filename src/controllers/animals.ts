@@ -4,7 +4,7 @@ import Chance from "chance";
 const chance = new Chance();
 
 // JS doesn't have range by default, so...
-const animals = [...Array(369).keys()].map((id) => {
+const animals = [...Array(999).keys()].map((id) => {
   return {
     id,
     type: chance.animal(),
